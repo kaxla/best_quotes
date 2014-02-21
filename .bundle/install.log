@@ -1,0 +1,10 @@
+# Logfile created on 2014-02-17 09:53:50 -0800 by logger.rb/44203
+I, [2014-02-17T09:53:50.127832 #85725]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-17T09:53:50.128706 #85725]  INFO -- : 0:  rulers (0.0.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rulers-0.0.1.gemspec
+I, [2014-02-17T09:53:50.129272 #85725]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-20T15:34:47.857460 #50903]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T15:34:48.079843 #50903]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/codefellows/rebuilding_rails/rulers/rulers.gemspec
+I, [2014-02-20T15:34:48.080539 #50903]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-20T15:36:46.847957 #50970]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T15:36:46.848619 #50970]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rulers-0.0.2.gemspec
+I, [2014-02-20T15:36:46.849273 #50970]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
