@@ -8,3 +8,15 @@ I, [2014-02-20T15:34:48.080539 #50903]  INFO -- : 0:  bundler (1.5.1) from /User
 I, [2014-02-20T15:36:46.847957 #50970]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
 I, [2014-02-20T15:36:46.848619 #50970]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rulers-0.0.2.gemspec
 I, [2014-02-20T15:36:46.849273 #50970]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-20T18:15:26.382272 #53549]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T18:15:26.459207 #53549]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/codefellows/rebuilding_rails/rulers/rulers.gemspec
+I, [2014-02-20T18:15:26.459817 #53549]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-20T18:52:02.004470 #54895]  INFO -- : 0:  ffi (1.9.3) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-02-20T18:52:02.753137 #54895]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-02-20T18:52:03.011268 #54895]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-02-20T18:52:03.237700 #54895]  INFO -- : 0:  rb-kqueue (0.2.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rb-kqueue-0.2.2.gemspec
+I, [2014-02-20T18:52:03.550397 #54895]  INFO -- : 0:  listen (1.0.3) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/listen-1.0.3.gemspec
+I, [2014-02-20T18:52:03.551340 #54895]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T18:52:03.804065 #54895]  INFO -- : 0:  rerun (0.8.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rerun-0.8.2.gemspec
+I, [2014-02-20T18:52:03.899262 #54895]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/codefellows/rebuilding_rails/rulers/rulers.gemspec
+I, [2014-02-20T18:52:03.899991 #54895]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
