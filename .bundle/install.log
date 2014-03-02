@@ -64,3 +64,15 @@ I, [2014-02-24T10:26:50.579421 #8866]  INFO -- : 0:  rack (1.5.2) from /Users/ka
 I, [2014-02-24T10:26:50.579801 #8866]  INFO -- : 0:  rerun (0.8.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rerun-0.8.2.gemspec
 I, [2014-02-24T10:26:50.664225 #8866]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/codefellows/rebuilding_rails/rulers/rulers.gemspec
 I, [2014-02-24T10:26:50.664851 #8866]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-28T20:14:44.570121 #43590]  INFO -- : 0:  erubis (2.7.0) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-28T20:14:44.570737 #43590]  INFO -- : 0:  ffi (1.9.3) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-02-28T20:14:44.571148 #43590]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-02-28T20:14:44.571504 #43590]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-02-28T20:14:44.571861 #43590]  INFO -- : 0:  rb-kqueue (0.2.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rb-kqueue-0.2.2.gemspec
+I, [2014-02-28T20:14:44.572263 #43590]  INFO -- : 0:  listen (1.0.3) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/listen-1.0.3.gemspec
+I, [2014-02-28T20:14:44.572684 #43590]  INFO -- : 0:  multi_json (1.8.4) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-28T20:14:44.573046 #43590]  INFO -- : 0:  rack (1.5.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-28T20:14:44.573406 #43590]  INFO -- : 0:  rerun (0.8.2) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/rerun-0.8.2.gemspec
+I, [2014-02-28T20:14:44.573779 #43590]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-02-28T20:14:44.696979 #43590]  INFO -- : 0:  rulers (0.0.2) from /Users/kaylamorrison/codefellows/rebuilding_rails/rulers/rulers.gemspec
+I, [2014-02-28T20:14:44.697454 #43590]  INFO -- : 0:  bundler (1.5.1) from /Users/kaylamorrison/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
